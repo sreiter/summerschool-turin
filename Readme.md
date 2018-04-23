@@ -5,6 +5,7 @@ In this repository we provide links and downloads related to the UG4 Summerschoo
 - **VRL-Studio:** https://vrl-studio.mihosoft.eu/
 - **ProMesh4:** http://www.promesh3d.com/
 - **ParaView:** https://www.paraview.org/
+- **VRL-Plugins:** https://github.com/sreiter/summerschool-turin/releases/download/release-01/summerschool-2018-with-plugins.vrlp
 
 
 ## Useful documentation
