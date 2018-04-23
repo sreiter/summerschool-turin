@@ -1,4 +1,4 @@
-# UG4 Summerschool Turino 2018
+# UG4 Summerschool Torino 2018
 In this repository we provide links and downloads related to the UG4 Summerschool in Turin, 2018.
 
 ## Downloads
