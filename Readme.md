@@ -9,6 +9,7 @@ In this repository we provide links and downloads related to the UG4 Summerschoo
 
 ## Useful documentation
 ### Manuals
+- ProMesh4 manual: http://sreiter.github.io/ProMesh/
 - UG4 docu (for developers): http://ug4.github.io/docs/
 
 ### Selected Links (advanced)
