@@ -21,6 +21,8 @@ Some links which provide further information on selected topics
 
 ## Day 2
 
+CSG Template Project: [csg-template.vrlp](https://github.com/sreiter/summerschool-turin/releases/download/release-01/csg-template.vrlp)
+
 Groovy components: 
 - [CopyCSG](https://gist.github.com/miho/1e491643d713018f3efad18a2221240a)
 
