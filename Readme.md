@@ -18,3 +18,9 @@ Some links which provide further information on selected topics
 
 - [UG4 Solver setup (lua tables)](http://ug4.github.io/docs/group__solver__util.html#details)
 - [UG4 ConvectionDiffusion discretization](http://ug4.github.io/docs/plugins/classug_1_1_convection_diffusion_plugin_1_1_convection_diffusion_base.html#details)
+
+## Day 2
+
+Groovy components: 
+- [CopyCSG](https://gist.github.com/miho/1e491643d713018f3efad18a2221240a)
+
