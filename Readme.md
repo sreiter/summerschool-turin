@@ -35,3 +35,5 @@ Groovy components:
 [KineticLinearSolver.groovy](https://gist.github.com/miho/0ddf97633a087ea960d24a4f5ad17784)
 
 [KineticSolver.groovy](https://gist.github.com/miho/b4b4eb3d3561f71a18fc9168d992b5fa)
+
+[UG-Util Plugin (new version)](https://github.com/sreiter/summerschool-turin/releases/download/release-01/VRL-UG-Util.jar)
