@@ -37,3 +37,5 @@ Groovy components:
 [KineticSolver.groovy](https://gist.github.com/miho/b4b4eb3d3561f71a18fc9168d992b5fa)
 
 [UG-Util Plugin (new version)](https://github.com/sreiter/summerschool-turin/releases/download/release-01/VRL-UG-Util.jar)
+
+[ER-cutout.ugx](https://www.dropbox.com/s/qc36szo4uw65zm5/ER-cutout.ugx?dl=0)
