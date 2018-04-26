@@ -38,4 +38,4 @@ Groovy components:
 
 [UG-Util Plugin (new version)](https://github.com/sreiter/summerschool-turin/releases/download/release-01/VRL-UG-Util.jar)
 
-[ER-cutout.ugx](https://www.dropbox.com/s/qc36szo4uw65zm5/ER-cutout.ugx?dl=0)
+[ER-cutout.ugx](https://github.com/sreiter/summerschool-turin/releases/download/release-01/ER-cutout.ugx)
