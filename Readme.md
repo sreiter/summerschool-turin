@@ -26,3 +26,12 @@ CSG Template Project: [csg-template.vrlp](https://github.com/sreiter/summerschoo
 Groovy components: 
 - [CopyCSG](https://gist.github.com/miho/1e491643d713018f3efad18a2221240a)
 
+## Day 3
+
+[AdvectionDiffusion.groovy](https://gist.github.com/miho/619fe912e63687c202e8a93a933f603e)
+
+[StaticLinearSolver.groovy](https://gist.github.com/miho/d22090f92078c1ea41fbac9754501108)
+
+[KineticLinearSolver.groovy](https://gist.github.com/miho/0ddf97633a087ea960d24a4f5ad17784)
+
+[KineticSolver.groovy](https://gist.github.com/miho/b4b4eb3d3561f71a18fc9168d992b5fa)
