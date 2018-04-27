@@ -1,6 +1,11 @@
 # UG4 Summerschool Torino 2018
 In this repository we provide links and downloads related to the UG4 Summerschool in Turin, 2018.
 
+## Contact
+- info@michaelhoffer.de
+- sreiter@gcsc.uni-frankfurt.de
+
+
 ## Downloads
 - **VRL-Studio:** https://vrl-studio.mihosoft.eu/
 - **ProMesh4:** http://www.promesh3d.com/
